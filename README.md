@@ -4,4 +4,4 @@ CMWFA is Compilator for Microsoft Windows Forms Applications
 # Use
 Use the link with ?name=NAME and ?code=YOURHTML and it will donwload and close instantly. please put an name.
  
-Example: [https://nbc-nu.github.io/CMWFA/?name=App&code=<%20h1>hello%20world</h1%20>%20]
+Example: https://nbc-nu.github.io/CMWFA/?name=App&code=CODE_HERE
